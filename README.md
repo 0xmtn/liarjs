@@ -36,6 +36,7 @@ dateAndTime: Is this path a datetime field (i.e 2012-05-23 14:03:56)?
 time: Is this path a time field (i.e 08:13:42)?
 Pick a type from the list above: dateAndTime
 Renewed schema types are as follows:
+...
 ```
 
 ## Contributing
