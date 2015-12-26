@@ -6,7 +6,15 @@ Populate a fake, but real-life db data.
 Install the module with: `npm install liar`
 
 ```shell
-..:liarjs mtn$ liar models/_sch_usermedia.js 
+..:* mtn$ liar path/to/model/schema
+```
+
+## Documentation
+_(Coming soon)_
+
+## Examples
+```shell
+..:* mtn$ liar models/_sch_usermedia.js 
 Creating Maps..
 Clearing unnecessary fields
 Indentified schema types are as follows: 
@@ -29,12 +37,6 @@ time: Is this path a time field (i.e 08:13:42)?
 Pick a type from the list above: dateAndTime
 Renewed schema types are as follows:
 ```
-
-## Documentation
-_(Coming soon)_
-
-## Examples
-_(Coming soon)_
 
 ## Contributing
 In lieu of a formal styleguide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code using [Grunt](http://gruntjs.com/).
