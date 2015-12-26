@@ -10,7 +10,7 @@ Install the module with: `npm install liar`
 ```
 
 ## Documentation
-Designed primarily for Node.js. Supports only MongoDB for now. All NoSQL and SQL will be supported soon.
+Designed primarily for Node.js. Supports only MongoDB for now. All NoSQL and SQL Databases will be supported soon.
 
 ## Examples
 ```shell
