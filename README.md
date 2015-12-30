@@ -14,7 +14,7 @@ Designed primarily for Node.js. Supports only MongoDB for now. All NoSQL and SQL
 
 ## Examples
 ```shell
-..:* mtn$ liar models/_sch_usermedia.js 
+bash-3.2$ liar models/_sch_usermedia.js 
 Creating Maps..
 Clearing unnecessary fields
 Indentified schema types are as follows: 
@@ -40,11 +40,11 @@ Renewed schema types are as follows:
 ```
 
 ## Contributing
-In lieu of a formal styleguide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code using [Grunt](http://gruntjs.com/).
+_(Coming Soon)_
 
 ## Release History
 _(Nothing yet)_
 
 ## License
-Copyright (c) 2015 Metin Emenullahi  
+Copyright (c) 2015 [Metin Emenullahi](https://github.com/0xmtn)
 Licensed under the MIT license.
